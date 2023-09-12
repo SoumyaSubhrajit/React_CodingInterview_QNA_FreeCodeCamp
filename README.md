@@ -1,17 +1,26 @@
+<h1 align="center">
+  React Interview Questions & Methods
+</h1>
+
 <p align="center">
   <img src="https://your-image-url.com/your-logo.png" alt="Logo" width="150">
 </p>
 
-# React Interview Questions & Methods
+<p align="center">
+  <strong>A curated collection of React interview questions and methods commonly asked by top tech companies.</strong>
+</p>
 
-> A curated collection of React interview questions and methods commonly asked by top tech companies.
+<br>
 
-## Table of Contents
+<p align="center">
+  <a href="#table-of-contents">Table of Contents</a> •
+  <a href="#about">About</a> •
+  <a href="#questions">Questions</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#license">License</a>
+</p>
 
-- [About](#about)
-- [Questions](#questions)
-- [Contributing](#contributing)
-- [License](#license)
+<br>
 
 ## About
 
@@ -42,4 +51,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by Your Name
+<p align="center">
+  Made with ❤️ by Your Name
+</p>
